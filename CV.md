@@ -1,0 +1,79 @@
+﻿% CV
+% Anouk van Schijndel
+% February 2016
+
+Curriculum Vitae
+================
+Anouk van Schijndel
+
+## Personal Information
+
+First Name			Anouk
+Laste Name			van Schijndel
+Full Name			Anouk Manon van Schijndel
+Date of Birth		November 14, 1993
+Place of Birth		Breda
+Country of Birth	The Netherlands
+Nationality			Dutch
+Sex					Female
+Address				Danielstraat 8, 4771 RP Langeweg
+Telephone Number	06-12100823
+Email Address		anoukvanschijndel@yahoo.co.uk
+
+## Profile
+
+My name is Anouk. Helpful, reliable and independent; these words describe my personality best
+according to friends and family. I like working in groups as much as working on my own and I’m not
+afraid to take full responsibility for my work. My motto is to always give 110% and achieve the best
+results possible.
+
+## Education
+
+* Master; Economics
+	- At Tilburg University
+	Since September 1, 2015
+	Track Public Policy
+	Track Money, Banking & Financial Markets
+* Bachelor; Economics & Business
+	- At Tilburg University
+	- Since September 1, 2012
+	- This study covers the best off both fields of Economics and Business, which makes the study very diverse and interesting. The broad view of the study allowed me to experience the best of several fields within Economics, which allowed me to develop my passion for Economics. The study emphasizes the importance of having a critical attitude and mathematical skills.
+	* CentER Honors Program
+		- Since January 22, 2015
+		- The CentER Honors Program is an excellent research institute of Tilburg University and it offers an extra-curricular course. It was the perfect opportunity for me to become more familiar with research and to gain more knowledge about different fields within Economics.
+	* Study Abroad Semester
+		- Economics at Trinity College Dublin
+		- September 15, 2014 – December 12, 2014
+		- I was given the opportunity to study at one of the best universities in Europe. While adjusting to a different country, language and culture it was the perfect chance to explore myself. This experience definitely made me more independent.
+	* Successfully completed language course “English for the Future”
+	* Joined the consultative group in academic year 2013/2014
+		- The consultative group collects information and suggestions of students about their study. This feedback is discussed with the Academic Director of the respective study and enables the university to improve the quality of education.
+* VWO; Economics & Society
+At Newman College (2009-2012) and Markland College Zevenbergen (2006-2009)
+
+## Work Experience
+
+* Waitress and Shop-Assistant at “Eeterij and Feesterij De Droom”
+	- Since July 24, 2012
+	- Soon after I started working as a waitress, they asked me to work in the cafeteria. Over the years this gave me the opportunity to start thinking at the strategic level. Examples are thinking how to advertise, which market strategy could be the best for the company and how to manage inventories.
+* Administrative assistant at “A. van Tilburg”
+	- June 12, 2014 – August 21, 2014
+	- After an informative internship in 2009, I was welcome to return as an administrative assistant. My main administrative responsibility was to take care of the first few steps of new invoices in the payment process.
+* Shop-Assistant at “Luxe Bakkerij Nagelkerke”
+	- October 9, 2009 – October 6, 2012
+* Internship at “A. van Tilburg”
+March 23, 2009 – March 26, 2009
+
+## Language Skills
+* Dutch
+* English
+* German (moderate)
+
+## Computer Skills
+* Microsoft Office
+* STATA
+* Open source software; python and github
+
+## Hobbies
+* Cooking
+* Travelling 
