@@ -63,33 +63,6 @@ Anouk van Schijndel
 
 
 
-
-Right     		Left     
-------     		------   
-
-
-First Name		Anouk
-Last Name		van Schijndel
-
-Full Name		Anouk Manon van Schijndel
-
-Date of Birth		November 14, 1993
-
-Place of Birth		Breda
-
-Country of Birth	The Netherlands
-
-Nationality		Dutch
-Gender			Female
-
-Address			Danielstraat 8, 4771 RP Langeweg
-
-Telephone Number	06-12100823
-
-Email Address		anoukvanschijndel@yahoo.co.uk
-
-
-
 ## Profile
 
 
