@@ -13,6 +13,57 @@ Anouk van Schijndel
 
 ## Personal Information
 
+ <table style="width:100%">
+  <tr>
+    <td>First Name</td>
+    <td>Anouk</td>
+  </tr>
+  <tr>
+    <td>Last Name</td>
+    <td>van Schijndel</td>
+  </tr>
+<tr>
+    <td>Full Name</td>
+    <td>Anouk Manon van Schijndel
+</td>
+  </tr>
+<tr>
+    <td>Date of Birth</td>
+    <td>November 14th, 1993</td>
+  </tr>
+<tr>
+    <td>Place of Birth</td>
+    <td>Breda</td>
+  </tr>
+<tr>
+    <td>Country of Birth</td>
+    <td>The Netherlands</td>
+  </tr>
+<tr>
+    <td>Nationality</td>
+    <td>Dutch</td>
+  </tr>
+<tr>
+    <td>Gender</td>
+    <td>Female</td>
+  </tr>
+<tr>
+    <td>Address</td>
+    <td>Danielstraat 8, 4771 RP Langeweg</td>
+  </tr>
+<tr>
+    <td>Telephone Number</td>
+    <td>06-12100823</td>
+  </tr>
+<tr>
+    <td>Email</td>
+    <td>anoukvanschijndel@yahoo.co.uk</td>
+  </tr>
+</table> 
+
+
+
+
 Right     		Left     
 ------     		------   
 
