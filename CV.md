@@ -1,14 +1,11 @@
-﻿% CV
-
+﻿% CV 
 % Anouk van Schijndel
-
-% February 2016
-
+% March 2016
 
 
-Curriculum Vitae
 
-================
+### Curriculum Vitae
+
 
 Anouk van Schijndel
 
